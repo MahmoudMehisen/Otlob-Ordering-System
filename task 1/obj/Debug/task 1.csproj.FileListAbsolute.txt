@@ -1,0 +1,96 @@
+E:\Projects\task 1\task 1\bin\Debug\task 1.exe.config
+E:\Projects\task 1\task 1\bin\Debug\task 1.exe
+E:\Projects\task 1\task 1\bin\Debug\task 1.pdb
+E:\Projects\task 1\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+E:\Projects\task 1\task 1\obj\Debug\task_1.Form1.resources
+E:\Projects\task 1\task 1\obj\Debug\task_1.Form2.resources
+E:\Projects\task 1\task 1\obj\Debug\task_1.Form3.resources
+E:\Projects\task 1\task 1\obj\Debug\task_1.Form4.resources
+E:\Projects\task 1\task 1\obj\Debug\task_1.Form5.resources
+E:\Projects\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+E:\Projects\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.cache
+E:\Projects\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+E:\Projects\task 1\task 1\obj\Debug\task 1.exe
+E:\Projects\task 1\task 1\obj\Debug\task 1.pdb
+E:\task 1\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+E:\task 1\task 1\obj\Debug\task_1.Form1.resources
+E:\task 1\task 1\obj\Debug\task_1.Form2.resources
+E:\task 1\task 1\obj\Debug\task_1.Form3.resources
+E:\task 1\task 1\obj\Debug\task_1.Form4.resources
+E:\task 1\task 1\obj\Debug\task_1.Form5.resources
+E:\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+E:\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.cache
+E:\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+E:\task 1\task 1\obj\Debug\task 1.exe
+E:\task 1\task 1\obj\Debug\task 1.pdb
+E:\task 1\task 1\bin\Debug\task 1.exe.config
+E:\task 1\task 1\bin\Debug\task 1.exe
+E:\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Form1.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Form2.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Form3.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Form4.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Form5.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.MyOrder.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.UserMenu.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.Cache
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\bin\Debug\task 1.exe.config
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\bin\Debug\task 1.exe
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task 1.exe
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task 1.pdb
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task 1.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Debug\task_1.Form6.resources
+M:\FCIS\Project\Otlob\task 1\task 1\bin\Debug\task 1.exe.config
+M:\FCIS\Project\Otlob\task 1\task 1\bin\Debug\task 1.exe
+M:\FCIS\Project\Otlob\task 1\task 1\bin\Debug\task 1.pdb
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task 1.csprojResolveAssemblyReference.cache
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Form1.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Form2.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Form3.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Form4.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Form5.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Form6.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.MyOrder.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task_1.UserMenu.resources
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.Cache
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task 1.exe
+M:\FCIS\Project\Otlob\task 1\task 1\obj\Debug\task 1.pdb
+C:\Users\mahmo\Desktop\task 1\task 1\bin\Debug\task 1.exe.config
+C:\Users\mahmo\Desktop\task 1\task 1\bin\Debug\task 1.exe
+C:\Users\mahmo\Desktop\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task 1.csprojResolveAssemblyReference.cache
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Form1.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Form2.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Form3.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Form4.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Form5.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Form6.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.MyOrder.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task_1.UserMenu.resources
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.Cache
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task 1.exe
+C:\Users\mahmo\Desktop\task 1\task 1\obj\Debug\task 1.pdb
+C:\Users\micha\Desktop\task 1\task 1\bin\Debug\task 1.exe.config
+C:\Users\micha\Desktop\task 1\task 1\bin\Debug\task 1.exe
+C:\Users\micha\Desktop\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task 1.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Form1.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Form2.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Form3.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Form4.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Form5.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Form6.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.MyOrder.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task_1.UserMenu.resources
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.Cache
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task 1.exe
+C:\Users\micha\Desktop\task 1\task 1\obj\Debug\task 1.pdb

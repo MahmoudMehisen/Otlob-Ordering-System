@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\bin\Release\task 1.exe.config
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\bin\Release\task 1.exe
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\bin\Release\task 1.pdb
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task_1.Form1.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task_1.Form2.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task_1.Properties.Resources.resources
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task 1.csproj.GenerateResource.Cache
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task 1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task 1.exe
+C:\Users\micha\Documents\Visual Studio 2013\Projects\Gui\task 1\task 1\obj\Release\task 1.pdb
